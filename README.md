@@ -131,7 +131,7 @@ graph LR
 1. **Clone Repository**:
    ```bash
    git clone https://github.com/Aniket7545/Agentic_Testing.git
-   cd Agentic-Testing-Using-Crewai
+   cd Agentic_Testing
    ```
 
 2. **Install Python Dependencies**:
