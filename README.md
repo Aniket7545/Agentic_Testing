@@ -130,7 +130,7 @@ graph LR
 
 1. **Clone Repository**:
    ```bash
-   git clone https://github.com/Sanyam753/Agentic-Testing-Using-Crewai.git
+   git clone https://github.com/Aniket7545/Agentic_Testing.git
    cd Agentic-Testing-Using-Crewai
    ```
 
@@ -339,11 +339,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Author
 
-**Sanyam Sankhala**  
-- GitHub: [@Sanyam753](https://github.com/Sanyam753)
-- LinkedIn: [sanyam-sankhala](https://www.linkedin.com/in/sanyam-sankhala-00809027a/)
-- Website: [sanyam-sankhala](https://sanyam.pythonanywhere.com/)
-- Email: sanyam.sankhala@13.com
+**Aniket Verma**  
+- GitHub: [@Aniket7545](https://github.com/Aniket7545)
+- LinkedIn: [Aniket Verma](https://www.linkedin.com/in/aniket-verma-7b31b3285/)
+- Email: aniketverma816@gmail.com
 
 ---
 
